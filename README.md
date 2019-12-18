@@ -1,6 +1,6 @@
 # NOWEB as a Markdown processing tool
 
-[**NOWEB**][noweb] can be used for extracting codes in Markdown code.
+[**NOWEB**][noweb] can be used for extracting codes in Markdown text.
 In this example, we define the format as follows:
 - Documentation in Markdown
 - Chunk separater
