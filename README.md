@@ -6,7 +6,7 @@ In this example, we define the format as follows:
 - Chunk separater
 - Code in C
 
-The code is from [my Gist][gist].
+The code is from [the author's Gist][gist].
 
 [noweb]: http://www.cs.tufts.edu/~nr/noweb/
 [gist]: https://gist.github.com/metastable-void/ce228ede4f083e66e9abf24951ece64a
