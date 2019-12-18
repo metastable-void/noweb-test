@@ -6,11 +6,22 @@ In this example, we define the format as follows:
 - Chunk separater
 - Code in C
 
+The code is from [my Gist][gist].
+
 [noweb]: http://www.cs.tufts.edu/~nr/noweb/
+[gist]: https://gist.github.com/metastable-void/ce228ede4f083e66e9abf24951ece64a
+
+## Prerequiresite
+
+Install [NOWEB][noweb].
 
 ## Use
 
 To emit C source, use this: `notangle -Rhello.c README.md > hello.c`
+
+Alternatively, you can use the Makefile: `make`
+
+Use `make clean` to clear all artifacts.
 
 ## License
 
