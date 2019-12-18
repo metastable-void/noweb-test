@@ -3,7 +3,7 @@
 [**NOWEB**][noweb] can be used for extracting codes in Markdown code.
 In this example, we define the format as follows:
 - Documentation in Markdown
-- Chunk separater (`<<file name>>=`)
+- Chunk separater
 - Code in C
 
 [noweb]: http://www.cs.tufts.edu/~nr/noweb/
